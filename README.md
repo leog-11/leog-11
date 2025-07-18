@@ -5,7 +5,6 @@ I’m **Leo**, a Computer Science graduate passionate about full-stack developme
 ---
 
 ## 🌟 About Me  
-- 🎓 **Education**: BSc(Hons) in Computer Science (2025)  
 - 💻 **Skills**: Full-stack development, backend APIs, real-time databases, and mobile app development  
 - 🛠️ **Currently Working On**: A **Virtual Plant Simulator** using C#, ASP.NET Core, and Blazor  
 - ✨ **Interests**: Backend engineering, mobile apps, Frontend engineering 
