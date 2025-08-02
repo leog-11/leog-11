@@ -6,8 +6,7 @@ I’m **Leo**, a Computer Science graduate passionate about full-stack developme
 
 ## 🌟 About Me  
 - 💻 **Skills**: Full-stack development, backend APIs, real-time databases, and mobile app development  
-- 🛠️ **Currently Working On**: A **Virtual Plant Simulator** using C#, ASP.NET Core, and Blazor  
-- ✨ **Interests**: Backend engineering, mobile apps, Frontend engineering 
+- 🛠️ **Currently Working On**: A Ticket Support System using React.js, Python Fast API, PostgreSQL, AWS
 
 ---
 
