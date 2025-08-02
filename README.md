@@ -23,14 +23,6 @@ I’m **Leo**, a Computer Science graduate passionate about full-stack developme
 ## 🌟 Featured Projects  
 > **Note**: Some repositories are private but can be made available upon request.  
 
-### Virtual Plant Simulator  
-- **Description**: A web app that simulates plant growth based on user inputs like water, light, and time.  
-- **Technologies Used**: C#, ASP.NET Core, Blazor, Entity Framework  
-- **Features**:  
-  - State management API to persist user interactions and plant data  
-  - Responsive UI built with Blazor for seamless user experience  
-  - SQL database integration for storing plant growth data  
-
 ### Chronic Kidney Disease (CKD) Tool  
 - **Description**: A web-based tool designed to assist in monitoring and analyzing Chronic Kidney Disease (CKD) data.  
 - **Technologies Used**: TypeScript, Firebase, Bun.js  
