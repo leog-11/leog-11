@@ -24,7 +24,7 @@ I’m **Leo**, a Computer Science graduate passionate about full-stack developme
 
 ### Chronic Kidney Disease (CKD) Tool  
 - **Description**: A web-based tool designed to assist in monitoring and analyzing Chronic Kidney Disease (CKD) data.  
-- **Technologies Used**: TypeScript, Firebase, Bun.js  
+- **Technologies Used**: TypeScript, Firebase, Node.js 
 - **Features**:  
   - Real-time data storage and retrieval with Firebase for patient records  
   - Responsive UI for managing and visualizing CKD-related metrics  
