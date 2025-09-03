@@ -11,11 +11,11 @@ I’m **Leo**, a Computer Science graduate passionate about full-stack developme
 ---
 
 ## 🛠️ Technologies & Tools  
-- **Languages**: C#, Java, Python, TypeScript, JavaScript  
+- **Languages**: C#, Java, Python, TypeScript, JavaScript,Kotlin
 - **Backend**: ASP.NET Core, Spring Boot, Firebase  
-- **Frontend**: React.js, Next.js, Kotlin, Blazor  
-- **Databases**: SQL, Firebase, Room  
-- **Other Tools**: Git, Docker, Bun.js, Azure DevOps  
+- **Frontend**: React.js, Next.js, Blazor  
+- **Databases**: Firebase, Room, PostGreSQL  
+- **Other Tools**: Git, Docker, Bun.js, Azure DevOps, AWS
 
 ---
 
